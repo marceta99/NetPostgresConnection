@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4GoOFZ6fR+9dsfBppWmYVM5T5Ku8RHnSxu9ToT/5U/Q=",
+  "Source": "CRUDNet6Postgres",
+  "BasePath": "_content/CRUDNet6Postgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
